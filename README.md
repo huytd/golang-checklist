@@ -32,3 +32,4 @@ This list is for you. Feel free to contribute and add more awesome things you li
 - [ ] Create a health monitor for computer with awesome UI
 - [ ] Create IRC client
 - [ ] Create HTTP Request playground 
+- [ ] Create Torrent client
