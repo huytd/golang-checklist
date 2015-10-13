@@ -5,30 +5,30 @@ Are you getting lost and don't know what to start or learn with Golang?
 
 This list is for you. Feel free to contribute and add more awesome things you like:
 
-- [] Write output to console
-- [] Read input from console
-- [] Read file
-- [] Write file
-- [] String processing
-- [] Regex
-- [] Send HTTP requests
-- [] Serve HTTP service
-- [] Serve TCP server
-- [] Connect to TCP server
-- [] Connect to WebSocket server
-- [] Serve WebSocket service
-- [] Create a native window
-- [] Create a graphic windows (canvas, openGL,...)
+- [ ] Write output to console
+- [ ] Read input from console
+- [ ] Read file
+- [ ] Write file
+- [ ] String processing
+- [ ] Regex
+- [ ] Send HTTP requests
+- [ ] Serve HTTP service
+- [ ] Serve TCP server
+- [ ] Connect to TCP server
+- [ ] Connect to WebSocket server
+- [ ] Serve WebSocket service
+- [ ] Create a native window
+- [ ] Create a graphic windows (canvas, openGL,...)
 
 # And some projects to try
 
-- [] Create JSON parser
-- [] Create a Markdown Parser
-- [] Create a Markdown Editor
-- [] Create a mail client
-- [] Create a blog
-- [] Create Tic Tac Toe game
-- [] Create Chip 8 emulator
-- [] Create a health monitor for computer with awesome UI
-- [] Create IRC client
-- [] Create HTTP Request playground
+- [ ] Create JSON parser
+- [ ] Create a Markdown Parser
+- [ ] Create a Markdown Editor
+- [ ] Create a mail client
+- [ ] Create a blog
+- [ ] Create Tic Tac Toe game
+- [ ] Create Chip 8 emulator
+- [ ] Create a health monitor for computer with awesome UI
+- [ ] Create IRC client
+- [ ] Create HTTP Request playground 
