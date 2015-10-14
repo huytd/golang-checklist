@@ -17,8 +17,19 @@ This list is for you. Feel free to contribute and add more awesome things you li
   name, _ := reader.ReadString('\n')
   ```
   
-- [ ] Read file
-- [ ] Write file
+- Read file
+
+  ```go
+  file, err := ioutil.ReadFile("data.txt")
+  fmt.Print(string(file))
+  ```
+  
+- Write file
+
+  ```go
+  ioutil.WriteFile("data.txt", []byte("Hello World\nThis write from Go!"), 0644)
+  ```
+  
 - [ ] String processing
 - [ ] Regex
 - [ ] Send HTTP requests
