@@ -5,8 +5,18 @@ Are you getting lost and don't know what to start or learn with Golang?
 
 This list is for you. Feel free to contribute and add more awesome things you like:
 
-- [ ] Write output to console
-- [ ] Read input from console
+- Write output to console
+  
+  ```go
+  fmt.Println("Hello! What's your name?")
+  ```
+- Read input from console
+
+  ```go
+  reader := bufio.NewReader(os.Stdin)
+  name, _ := reader.ReadString('\n')
+  ```
+  
 - [ ] Read file
 - [ ] Write file
 - [ ] String processing
